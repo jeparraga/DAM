@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "48588322855",
+    "project_id": "proyecto-productos-4d895",
+    "storage_bucket": "proyecto-productos-4d895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48588322855:android:33eead0663386194f4f602",
+        "android_client_info": {
+          "package_name": "com.example.dam_u3_canciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYOapDC8O8jCDmmvurS53_749UtxjFKrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48588322855:android:23cc56291d0d58e1f4f602",
+        "android_client_info": {
+          "package_name": "com.example.dam_u3_ejerciciomiercoles_productos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYOapDC8O8jCDmmvurS53_749UtxjFKrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
